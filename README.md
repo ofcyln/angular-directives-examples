@@ -1,16 +1,16 @@
-# Angular Databinding Examples
+# Angular Directives Examples
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0. and includes examples of Angular databinding usages.
 
 ## Using project with Stackblitz
 
-Simply go to this URL [https://stackblitz.com/github/ofcyln/angular-databinding-examples](https://stackblitz.com/github/ofcyln/angular-databinding-examples)
+Simply go to this URL [https://stackblitz.com/github/ofcyln/angular-directives-examples](https://stackblitz.com/github/ofcyln/angular-directives-examples)
 
 ## Using in your local
 
 Run these commands on the terminal one after onother
 
-    git clone https://github.com/ofcyln/angular-databinding-examples.git
+    git clone https://github.com/ofcyln/angular-directives-examples.git
 
     npm install
 
@@ -18,7 +18,7 @@ Run these commands on the terminal one after onother
 
 or
 
-    git clone https://github.com/ofcyln/angular-databinding-examples.git
+    git clone https://github.com/ofcyln/angular-directives-examples.git
 
     yarn install
 
